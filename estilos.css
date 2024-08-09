@@ -25,8 +25,170 @@ body{
 
 
 .img1{
-    height: 300px;
-     width: 300px;
-     background-image: url(hormonas\ sexuales\ de\ ciclo\ menstrual.png)
-     i
+    height: 251px;
+     width: px;
+     background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    float:right;
+
+
 }
+
+.img2{
+    height: 460px;
+    width: px;
+    background-image: url("ciclo.1");
+    background-repeat: no-repeat;
+    float: right;
+}
+        .img3{
+        height: 440;
+        width: px;
+        background-image: url("El-ciclo-Menstrual-embarazzo.com_.webp");
+        background-repeat:no-repeat ;
+        float: right;
+        }
+        .img4{
+        height: 440;
+         width: px;
+         background-image: url("triangulo\ de\ pauli.webp");
+         background-repeat:no-repeat ;
+         float: right;
+         }
+         .img5{
+         height: 100;
+         width: px;
+         background-image: url("divicion.png");
+         background-repeat:no-repeat ;
+         float: right;
+        }
+        .img6{
+         height: 440;
+         width: px;
+         background-image: url("multiplicacion-monomios-con-polinomios-4-728.webp");
+         background-repeat:no-repeat ;
+         float: right;
+         }
+         .img7{
+         height: 400;
+         width: px;
+         background-image: url("suma\ y\ resta\ de\ polinomios.jpg");
+         background-repeat:no-repeat ;
+         float: right;
+          }    
+              
+        .img8{
+         height: 400;
+         width: px;
+         background-image: url("suma\ y\ resta\ de\ polinomios.jpg");
+         background-repeat:no-repeat ;
+          float: right;
+          }
+         .img9{
+         height: 400;
+         width: px;
+         background-image: url("transtorno\ alimenticio.avif");
+        background-repeat:no-repeat ;
+         float: right;
+         }
+         .img10{
+            height: 400;
+            width: px;
+            background-image: url("anorexia\ ingles.jfif");
+           background-repeat:no-repeat ;
+            float: right;
+            }
+            .img11{
+                height: 600;
+                width: px;
+                background-image: url("bulimia\ igs.jfif");
+               background-repeat:no-repeat ;
+                float: right;
+                }
+                .img12{
+                    height: 600;
+                    width: px;
+                    background-image: url("ejercicio.jpg");
+                   background-repeat:no-repeat ;
+                    float: right;
+                    }
+                    .img13{
+                        height: 600;
+                        width: px;
+                        background-image: url("visitamédico_1.jpeg");
+                       background-repeat:no-repeat ;
+                        float: right;
+                        }
+                     .img14{
+                     height: 600;
+                      width: px;
+                      background-image: url("dientes.webp");
+                      background-repeat:no-repeat ;
+                    float: right;
+                     }
+                    .img15{
+                     height: 600;
+                    width: px;
+                     background-image: url("preción\ arterial.webp");
+                     background-repeat:no-repeat ;
+                      float: right;
+                   }
+                 .img16{
+                 height: 600;
+                  width: px;
+                  background-image: url("mente.jpg");
+                 background-repeat:no-repeat ;
+                 float: right;
+                  }
+                 .img17{
+                  height: 400;
+                  width: px;
+                 background-image: url("seguridad1.jpg");
+                  background-repeat:no-repeat ;
+                  float: right;
+                  }
+                  .img18{
+                    height: 400px;
+                     width: px;
+                     background-image: url("sandwiches-y-verduras.webp");
+                     background-repeat:no-repeat ;
+                   float: right;
+                    }
+                     .img19{
+                        height: 350px;
+                         width: px;
+                         background-image: url("alcohol.png");
+                         background-repeat:no-repeat ;
+                       float: right;
+                        }
+                        .img20{
+                            height: 350px;
+                             width: px;
+                             background-image: url("sedentario.jfif");
+                             background-repeat:no-repeat ;
+                           float: right;
+                            }
+                            .img21{
+                                height: 350px;
+                                 width: px;
+                                 background-image: url("fisica.jfif");
+                                 background-repeat:no-repeat ;
+                               float: right;
+                                }
+                                .img22{
+                                    height: 350px;
+                                     width: px;
+                                     background-image: url("tabaco.jpg");
+                                     background-repeat:no-repeat ;
+                                   float: right;
+                                    }
+                                    .img23{
+                                        height: 350px;
+                                         width: px;
+                                         background-image: url("sal.jfif");
+                                         background-repeat:no-repeat ;
+                                       float: right;
+                                        }
+
+
+

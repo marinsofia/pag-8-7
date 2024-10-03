@@ -198,4 +198,28 @@ body{
 float: right;
 
 }
+.img25{
+  height: 410px;
+  width:890px;
+  background-image: url("trimestre-primero.jpg");
+  background-repeat:no-repeat ;
+float: right;
+
+}
+.img26{
+  height: 700px;
+  width:890px;
+  background-image: url("tercer\ trimestre.jpg");
+  background-repeat:no-repeat ;
+float: right;
+
+}
+.img27{
+  height: 700px;
+  width:890px;
+  background-image: url("proceso.jpg");
+  background-repeat:no-repeat ;
+float: right;
+
+}
 

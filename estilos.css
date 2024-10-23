@@ -222,4 +222,45 @@ float: right;
 float: right;
 
 }
-
+.img28{
+  height: 400px;
+  width:890px;
+  background-image: url("R.jpeg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img29{
+  height: 600px;
+  width:890px;
+  background-image: url("mulher-e-homem-com-bolha-de-bate-papo_24877-54757.avif");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img30{
+  height: 400px;
+  width:890px;
+  background-image: url("OIP.jpeg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img31{
+  height: 400px;
+  width:890px;
+  background-image: url("violencia.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img32{
+  height: 400px;
+  width:890px;
+  background-image: url("60e2b1581297e0af9709c399e69b3bd2.png");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img33{
+  height: 300px;
+  width:890px;
+  background-image: url("graph1.jpg ");
+  background-repeat:no-repeat ;
+float: right;
+}

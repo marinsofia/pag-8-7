@@ -308,9 +308,107 @@ float: right;
 float: right;
 }
 .img40{
-  height: 800px;
+  height: 400px;
   width:890px;
   background-image: url("ejemplos\ mate.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img41{
+  height: 300px;
+  width:890px;
+  background-image: url("trimonio\ al\ cubo.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img42{
+  height: 300px;
+  width:890px;
+  background-image: url("ejemplo\ de\ el\ trimonio\ al\ cubo.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img43{
+  height: 350px;
+  width:890px;
+  background-image: url("factorizacion-de-una-polinomio-con-factor-comun-600x338.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img44{
+  height: 350px;
+  width:890px;
+  background-image: url("ejemplos-de-factorizacion-y-obtener-le-factor-comun-de-un-polinomio.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img45{
+  height: 350px;
+  width:890px;
+  background-image: url("factorizacion.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img46{
+  height: 200px;
+  width:890px;
+  background-image: url("ejemplosfactorizacion.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img47{
+  height: 350px;
+  width:890px;
+  background-image: url("cudras\ fanc.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img48{
+  height: 350px;
+  width:890px;
+  background-image: url("de\ fact.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img49{
+  height: 350px;
+  width:890px;
+  background-image: url("factorizacion-de.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img50{
+  height: 350px;
+  width:890px;
+  background-image: url("ejemplos-de-.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img51{
+  height: 350px;
+  width:890px;
+  background-image: url("favt.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img52{
+  height: 350px;
+  width:890px;
+  background-image: url("ejemplo-de-factorizacion-de-un-trinomio-de-la-forma-ax2-mas-bx-mas-c.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img53{
+  height: 350px;
+  width:890px;
+  background-image: url("factorizacion-de-una-1.jpg");
+  background-repeat:no-repeat ;
+float: right;
+}
+.img54{
+  height: 350px;
+  width:890px;
+  background-image: url("cubos\ factilizacion.jpg");
   background-repeat:no-repeat ;
 float: right;
 }
